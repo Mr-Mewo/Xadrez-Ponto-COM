@@ -121,7 +121,6 @@ pub fn piece(props: &PieceProps) -> Html {
         let dragging = dragging.clone();
 
         let pos = pos.clone();
-        ;
         let curr_legal = curr_legal.clone();
 
 
